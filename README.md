@@ -1,14 +1,14 @@
 Hi there! 👋
 
-I'm Rafiz Imtiaz, a fresh graduate with a passion for coding and eager to learn new things. Welcome to my GitHub profile!
+I'm Rafiz Imtiaz, a graduate with a passion for coding and eager to learn new things. Welcome to my GitHub profile!
 
 About Me
 
-🎓 I recently graduated and am excited to embark on my journey in the world of software development.
+🎓 I am excited to embark on my journey in the world of software development.
 
 💻 I love coding and exploring different technologies. You'll often find me experimenting with new libraries, frameworks, and languages to expand my skill set.
 
-🚀 Currently, I'm diving deep into Laravel, sharpening my skills in building robust web applications with PHP.
+🚀 Currently, I'm diving deep into Laravel and Django, sharpening my skills in building robust web applications with PHP.
 
 🎮 When I'm not coding, you can probably find me immersed in the world of gaming. Gaming is not just a hobby for me; it's also a way to unwind and find inspiration.
 
